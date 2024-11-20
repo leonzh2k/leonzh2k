@@ -3,7 +3,7 @@
 ### About me
 I'm a software developer because I like solving problems, building things, and helping people. Currently, I'm the lead developer on the <a href="https://coauthor.fly.dev/" target="_blank">Coauthor Project</a>, a platform for academic researchers to share their manuscript peer review data and help each other discover journals with fairer review processes.
 
-Outside of work I have several hobbies like hiking, photography and playing video games, and my favorite hobby by far is listening to music. My favorite track currently is <a href="https://www.youtube.com/watch?v=LMUed3pjklQ" target="_blank">The Seneschal Arrives - Centigrade</a>
+Outside of work I have several hobbies like hiking, photography and playing video games, and my favorite hobby by far is listening to music. 
 
 ### Projects
 - <a href="https://coauthor.fly.dev/" target="_blank">Coauthor</a> - platform for academic researchers to share their manuscript peer review data and help each other discover journals with fairer review processes.
