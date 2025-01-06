@@ -1,13 +1,14 @@
-# Hi, I'm Leon
-
 ### About me
-I'm a software developer because I like solving problems, building things, and helping people. Currently, I'm the lead developer on the <a href="https://coauthor.fly.dev/" target="_blank">Coauthor Project</a>, a platform for academic researchers to share their manuscript peer review data and help each other discover journals with fairer review processes.
 
-Outside of work I have several hobbies like hiking, photography and playing video games, and my favorite hobby by far is listening to music. 
+I write software because I like building things, solving problems, and helping people. Currently, I'm the lead developer on <a href="https://coauthor.fly.dev/" target="_blank">Coauthor</a>, a platform for academic researchers to share their manuscript peer review data and help each other discover journals with fairer review processes.
 
-### Projects
+When I'm not programming, I enjoy listening to music, photography, hiking, and playing video games. 
+
+### What I'm building now:
 - <a href="https://coauthor.fly.dev/" target="_blank">Coauthor</a> - platform for academic researchers to share their manuscript peer review data and help each other discover journals with fairer review processes.
-- <a href="https://iacoped.github.io/coped-designermap/">CoPED Designer Map</a> - Interactive map promoting the work of 200+ publicly engaged designers around the world. Built for the Collective of Publicly Engaged Designers (CoPED).
+
+### What I've built previously
+- <a href="https://iacoped.github.io/coped-designermap/">CoPED Designer Map</a> - Interactive map promoting the work of 200+ publicly engaged designers around the world. Client: Collective of Publicly Engaged Designers (CoPED).
 - <a href="https://visaudio.fly.dev/">Visaudio</a> - Browser-based tool for creating audio-reactive visuals.
 
 
