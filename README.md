@@ -1,6 +1,6 @@
 ### About me
 
-I write software because I like building things, solving problems, and helping people. Currently, I'm the lead developer on <a href="https://coauthor.fly.dev/" target="_blank">Coauthor</a>, a platform for academic researchers to share their manuscript peer review data and help each other discover journals with fairer review processes.
+I write software to solve problems for myself and others and as a form of creative self-expression. Currently, I'm the lead developer on <a href="https://coauthor.fly.dev/" target="_blank">Coauthor</a>, a platform for academic researchers to share their manuscript peer review data and help each other discover journals with fairer review processes.
 
 When I'm not programming, I enjoy listening to music, photography, hiking, and playing video games. 
 
